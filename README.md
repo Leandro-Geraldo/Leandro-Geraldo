@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil 🐱‍👤🐱‍👤
+
+### Meu objetivo e crescer na área de desenvolvimento, me tornando um profissional competente e responsável, sempre aprimorando meus conhecimentos hard skills e soft skills, ser um profissional valorizado e indispensável, podendo agregar valor por onde passar.
 
  <div>
    <a href="https://github.com/Leandro-Geraldo">
