@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 🐱‍👤🐱‍👤
 
-### Meu objetivo e crescer na área de desenvolvimento, me tornando um profissional competente e responsável, sempre aprimorando meus conhecimentos hard skills e soft skills, ser um profissional valorizado e indispensável, podendo agregar valor por onde passar.
+### Prazer sou o Leandro, um cara comprometido com seus objetivos, dedicado e esforçado, é apesar da idade bem maduro, pai do Levi, noivo da Lari e sonhador. Estou focado na minha evolução cada dia dando 1% a mais de mim, cada aprendizado, cada conquista, cada momento de dificuldade e um passo a mais para meus objetivos, e como sempre digo para mim mesmo, "o sucesso é a caminhada, não a linha de chegada." 
 
  <div>
    <a href="https://github.com/Leandro-Geraldo">
